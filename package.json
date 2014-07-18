@@ -9,6 +9,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Automattic/socket.io"
+    "url": "https://github.com/a1exb1/pacwarsheroku.git"
   }
 }
