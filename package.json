@@ -8,6 +8,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@heroku.com:pacwarsgame.git"
-  },
+    "url": "git://github.com/Automattic/socket.io"
+  }
 }
